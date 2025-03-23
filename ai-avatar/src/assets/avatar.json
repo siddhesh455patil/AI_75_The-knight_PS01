@@ -1,0 +1,8 @@
+{
+  "name": "AI Avatar",
+  "modelPath": "/models/avatar.glb",
+  "animations": ["Idle", "Wave", "Talk"],
+  "scale": 2,
+  "position": [0, -1, 0],
+  "rotation": [0, 0, 0]
+}
